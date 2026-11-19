@@ -22,4 +22,5 @@ KursRepository zu Kurs PowerShell mit AI – Automatisierung für Clevere der pp
     - Parametervalidierung
         - ValidateSet
         - ValidateRange
+    - Praxibeispiele
 
